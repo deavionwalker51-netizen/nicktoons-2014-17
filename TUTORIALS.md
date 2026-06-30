@@ -2,6 +2,16 @@
 
 An "Up Next" bumper is a short, animated sequence used in television broadcasts to tease the next show or segment. This guide covers the fundamentals of creating one in Adobe After Effects.
 
+## Video Tutorial
+
+Watch this comprehensive tutorial on creating Up Next bumpers:
+
+[![Up Next Bumper Tutorial](https://img.youtube.com/vi/8eiXLzhqfJE/maxresdefault.jpg)](https://www.youtube.com/watch?v=8eiXLzhqfJE&t=27s)
+
+**[Click to watch on YouTube](https://www.youtube.com/watch?v=8eiXLzhqfJE&t=27s)**
+
+---
+
 ## Overview
 An Up Next bumper typically includes:
 - **Show/segment title** with animated text
